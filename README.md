@@ -1,6 +1,6 @@
 # TEAM GUASTA 
 
-ENUNCIADO: Escribir un código en el lenguaje de su preferencia que seleccióne dos números primos al asar, que los multiplique y en otra rutina que trate de factorizar el numero en sus dos números primos originales.
+
 
 ![image](https://user-images.githubusercontent.com/38637350/155760753-aa752d57-92ee-4e08-bc09-48bc3c74a677.png)
 <br>Universidad Mariano Gálvez de Guatemala
@@ -8,8 +8,9 @@ ENUNCIADO: Escribir un código en el lenguaje de su preferencia que seleccióne 
 <br>Maestría en Seguridad Informática
 <br>Curso Principios de Seguridad Informática
 <br>Ing. José Luis Méndez Soto
-
-#Integrantes
+  <center><b> Tema: <b></center>
+  <center> "Programa para factorizar números primos" </center>
+##Integrantes
 <br>Gabriel Alfonso Aroche Morales			  1593-09-9963 
 <br>Marvin Estuardo Chacón Orellana	    	1593-11-11968
 <br>Walter Noé Portillo Reyes				      1593-12-1451
