@@ -10,7 +10,7 @@
 <br>Ing. José Luis Méndez Soto
   <br><br><b> Tema: </b>
 <br> "Programa para factorizar números primos" 
-<br><br>## Integrantes
+<br><br> # # Integrantes
 <br>Gabriel Alfonso Aroche Morales			  1593-09-9963 
 <br>Marvin Estuardo Chacón Orellana	    	1593-11-11968
 <br>Walter Noé Portillo Reyes				      1593-12-1451
